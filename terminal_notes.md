@@ -69,3 +69,14 @@ To remove a file, use:
 ```
 rm index.html
 ```
+
+### mv - Rename or Move File
+The "mv" command has 2 functions. One is to rename a file. The other is to move it.
+To move it, simply type rm, followed by the current file name, and then the location you wish to move it, along with a name (changed or not).
+```
+mv index.html ../index.html
+```
+To rename it, just simply after "mv" type in the current file name, then the new file name
+```
+mv first.html second.html
+```
