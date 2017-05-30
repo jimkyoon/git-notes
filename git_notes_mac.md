@@ -53,3 +53,9 @@ This will add all the changes to Git. Now let's commit those changes.
 git commit -m "added h1 to index.html"
 ```
 The -m is a message or memo that is associated with what you committed.
+
+# git log and git diff - Looking at the history
+NOTES COMING SOON
+
+# git revert and git reset - Revert to previous history or reset on a commit
+NOTES COMING SOON
